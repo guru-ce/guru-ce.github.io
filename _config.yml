@@ -1,0 +1,16 @@
+# Build settings
+name: GURU-CE
+description: Grupo de Usuários de Ruby do Ceará
+meta_description: "Encontros, Ruby, Rails, Git, Gems, Desenvolvimento, Javascript, Design Patterns, Arquitetura"
+
+markdown: kramdown
+highlighter: pygments
+logo: false
+paginate: 15
+
+# Details for the RSS feed generator
+url:            'blog url'
+author:         'GURU - CE'
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
