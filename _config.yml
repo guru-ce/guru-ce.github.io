@@ -11,6 +11,7 @@ paginate: 15
 # Details for the RSS feed generator
 url:            'blog url'
 author:         'GURU - CE'
+permalink: /blog/:year/:month/:day/:title
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
