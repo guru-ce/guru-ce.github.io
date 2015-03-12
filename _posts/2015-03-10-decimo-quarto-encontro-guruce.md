@@ -30,9 +30,9 @@ Pessoal, estamos muito empolgados em retomar as atividades do GURU, contamos com
 
 ### Inscritos
 
-Temos no total __34__ _inscritos_.
+Temos no total __47__ _inscritos_.
 
-Ainda não fez a sua inscrição? basta [clicar aqui](https://docs.google.com/forms/d/1v-zE0JXZB1jsHDY7jnfYS8j_FrBWSrIYOsDvUbi8oC8/viewform?usp=send_form)!
+Ainda não fez a sua inscrição? ~~basta clicar aqui~~. Inscrições encerradas.
 
 ### Local
 
