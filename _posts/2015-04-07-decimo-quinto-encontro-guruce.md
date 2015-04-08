@@ -38,7 +38,7 @@ Como conversamos no último encontro, a proposta é aumentar a frequência dos e
 
 
 
-Ainda não fez a sua inscrição? basta [clicar aqui](http://www.eventick.com.br/15o-encontro-guru-ce)! Estamos pedindo também para que quem tiver inscrito, leve, no dia,  1Kg de alimento não perecível. O pessoal da Elephant ajuda uma instituição e perguntou se poderíamos ajudar. Claro que sim!
+Ainda não fez a sua inscrição? basta [clicar aqui](http://www.eventick.com.br/15o-encontro-guru-ce)! __Estamos pedindo também para que quem tiver inscrito, leve, no dia,  1Kg de alimento não perecível__. O pessoal da Elephant ajuda uma instituição e perguntou se poderíamos ajudar. Claro que sim!
 
 ### Local
 
@@ -61,8 +61,7 @@ __Website:__ [elephantcoworking.com.br](http://www.elephantcoworking.com.br/)
 
 ### Patrocinadores
 
-![Casa do Código]({{ site.baseurl }}/assets/images/cdc-logo-novo-400.png "Casa do Código")
-
+[![Casa do Código]({{ site.baseurl }}/assets/images/cdc-logo-novo-400.png "Casa do Código")](http://www.casadocodigo.com.br)
 
 ##### Sugestões
 
