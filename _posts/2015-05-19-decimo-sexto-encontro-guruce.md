@@ -7,9 +7,9 @@ categories: evento encontro guruce
 
 Fala galera, infelizmente tivemos que adiar o evento 16, mas já temos nova data, será dia 20 de junho, no mesmo horário, 14h. O local ainda não está definido, palestrantes também não o que importa é que teremos evento! \o/
 
-Contamos com a presença de todos. E se você tiver querendo nos ajudar, entra em contato, ou [submente uma palestra](http://call4paperz.com/events/16-encontro-do-guru-ce).
+Contamos com a presença de todos. E se você tiver querendo nos ajudar, entra em contato, ou [submete uma palestra](http://call4paperz.com/events/16-encontro-do-guru-ce).
 
-E não esquece de se [increver no evento](http://even.tc/16o-encontro-guru-ce)
+E não esquece de se [inscrever no evento](http://even.tc/16o-encontro-guru-ce)
 
 ### Palestrantes
 
