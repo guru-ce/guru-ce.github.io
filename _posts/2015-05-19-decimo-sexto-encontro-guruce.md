@@ -18,7 +18,7 @@ E não esquece de se [inscrever no evento](http://even.tc/16o-encontro-guru-ce)
 
     __Descrição:__ Será mostrado o que é, e pra serve o Rack. Como ele é usado para criar a maioria dos frameworks web no ruby, como o Rails ou o Sinatra. A ideia é mostrar que não existe nada de mágico ou difícil em fazer um framework como o Sinatra.
 
-    __Contatos:__
+    __Contatos:__ [Twitter](https://twitter.com/luizbafilho) - [Github](https://github.com/luizbafilho) - [Linkedin](https://www.linkedin.com/in/luizbafilho)
 
 - ##### Daniel Romero
     __Título:__ Automatize o provisionamento de servidores com Ansible
