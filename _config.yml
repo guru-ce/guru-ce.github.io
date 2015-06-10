@@ -3,8 +3,6 @@ name: GURU-CE
 description: Grupo de Usuários de Ruby do Ceará
 meta_description: "Encontros, Ruby, Rails, Git, Gems, Desenvolvimento, Javascript, Design Patterns, Arquitetura"
 
-markdown: kramdown
-highlighter: pygments
 logo: false
 paginate: 15
 
@@ -15,3 +13,6 @@ permalink: /blog/:year/:month/:day/:title
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+kramdown:
+  input: GFM
