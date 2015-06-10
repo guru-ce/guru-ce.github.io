@@ -9,7 +9,7 @@ Fala galera, infelizmente tivemos que adiar o evento 16, mas já temos nova data
 
 Contamos com a presença de todos. E se você tiver querendo nos ajudar, entra em contato~~, ou [submete uma palestra](http://call4paperz.com/events/16-encontro-do-guru-ce)~~.
 
-E não esquece de se [inscrever no evento](http://even.tc/16o-encontro-guru-ce)
+E não esquece de se [inscrever no evento](http://even.tc/16o-encontro-guru-ce) e levar 1kg de alimento.
 
 ### Palestrantes
 
@@ -55,7 +55,7 @@ __Website:__ [elephantcoworking.com.br](http://www.elephantcoworking.com.br/)
 
 [![Pragmatic Bookshelf]({{ site.baseurl }}/assets/images/pragmatic.png "Pragmatic Bookshelf")](https://pragprog.com/Covers)
 
-[![Elephant Coworking]({{ site.baseurl }}/assets/images/pragmatic.png "Elephant Coworking")](http://www.elephantcoworking.com.br)
+[![Elephant Coworking]({{ site.baseurl }}/assets/images/elephant.png "Elephant Coworking")](http://www.elephantcoworking.com.br)
 
 ##### Sugestões
 
