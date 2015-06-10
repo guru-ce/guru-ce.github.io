@@ -32,7 +32,8 @@ E não esquece de se [inscrever no evento](http://even.tc/16o-encontro-guru-ce)
 
     __Descrição:__ Esse talk será explanado algumas das integrações do Slack e como ele pode ser útil para melhor seu rendimento como desenvolvedor. O Slack pode ser mais que um mIRC hipster e pode passar mais que um bate papo também. Integrar times, deploy, testes de aplicações, commits, isso tudo pode ser feito no Slack. É uma ferramenta que reúne times e também pode servir com uma arma contra seu desempenho.
 
-    __Contatos:__
+    __Contatos:__ [Twitter](https://twitter.com/viniciusc70) - [Github](https://github.com/viniciuscarvalho) - [Linkedin](https://www.linkedin.com/in/viniciuscarvalhomarques)
+
 
 ### Local
 
