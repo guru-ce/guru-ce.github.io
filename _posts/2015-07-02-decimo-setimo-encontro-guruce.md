@@ -5,7 +5,7 @@ date:   2015-07-02 12:00:00
 categories: evento encontro guruce
 ---
 
-O próximo encontro do GURU está chegando pessoal, no fim do mês, mais precisamente no dia **25 de julho** vamos nos reunir novamente para mais palestras sobre tecnologia em geral. Nesse encontro, entretanto, teremos novidades! A primeira é que teremos mais espaço para palestras, já que estamos fazendo um mix entre palestras (~40min) e _lightining talks_ (~10min), dando assim oportunidades a mais pessoas que tenham interesse em compartilhar pequenas experiências, ou que simplesmente não queriam falar por mais tempo. A segunda novidade é que a partir desse encontro, estaremos cobrando ingressos. O valor será convertido inteiramente em investimento para o encontro, como _coffee break_, por exemplo.
+O próximo encontro do GURU está chegando pessoal! No fim do mês, mais precisamente no dia **25 de julho** vamos nos reunir novamente para mais palestras sobre tecnologia em geral. Nesse encontro, entretanto, teremos novidades! A primeira é que teremos mais espaço para palestras, já que estamos fazendo um mix entre palestras (~40min) e _lightining talks_ (~10min), dando assim oportunidades a mais pessoas que tenham interesse em compartilhar pequenas experiências, ou que simplesmente não queriam falar por mais tempo. A segunda novidade é que a partir desse encontro, estaremos cobrando ingressos. O valor será convertido inteiramente em investimento para o encontro, como _coffee break_, por exemplo.
 
 Contamos com a sua participação. Inscreva-se [aqui](http://www.eventick.com.br/17o-encontro-do-guru-ce) ou submeta sua palestra ou LT [aqui](http://call4paperz.com/events/17-encontro-guru-ce).
 
