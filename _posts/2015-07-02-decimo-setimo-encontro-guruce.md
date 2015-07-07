@@ -17,7 +17,7 @@ Contamos com a sua participação. Inscreva-se [aqui](http://www.eventick.com.br
 
 ### Local
 
-- A definir
+[![RBL Networks]({{ site.baseurl }}/assets/images/logo-rblnetworks.png "RBL Networks")](http://www.rblnetworks.com.br)
 
 ### Patrocinadores
 
