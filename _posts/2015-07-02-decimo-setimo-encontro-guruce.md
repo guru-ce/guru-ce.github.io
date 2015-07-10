@@ -9,11 +9,31 @@ O próximo encontro do GURU está chegando pessoal! No fim do mês, mais precisa
 
 Contamos com a sua participação. Inscreva-se [aqui](http://www.eventick.com.br/17o-encontro-do-guru-ce) ou submeta sua palestra ou LT [aqui](http://call4paperz.com/events/17-encontro-guru-ce).
 
-**Atenção**: As inscrições são até o dia 24 de julho às 20h. O CFP, fica até o dia 20 de julho.
+**Atenção**: As inscrições são até o dia 24 de julho às 20h.
 
 ### Palestrantes
 
-- A definir
+- ##### Daniel Romero
+    __Título:__ Hello CoreOS
+
+    __Descrição:__ A proposta desta talk é apresentar o sistema operacional CoreOS e sua estrutura diferente, elaborada para trabalhar em cluster e gerenciar containers. Ao final um demo de como criar e controlar um cluster rapidamente além de distribuir containers.
+
+    __Contatos:__ [Twitter](https://twitter.com/infoslack) - [Github](https://github.com/infoslack) - [Linkedin](https://www.linkedin.com/in/infoslack)
+
+- ##### Débora Martins
+    __Título:__ Depois da jóia, flores
+
+    __Descrição:__ Nessa talk veremos uma introdução "hands-on" ao framework Lotus, suas diferenças e semelhanças com Rails.
+
+    __Contatos:__ [Twitter](https://twitter.com/dehvmartins) - [Github](https://github.com/dehvmartins) - [Linkedin](https://www.linkedin.com/in/dehvmartins)
+
+- ##### Renan Gurgel
+    __Título:__ Airbrake - Descobrindo os erros da sua aplicação antes do seu cliente
+
+    __Descrição:__ Nesse lightning talk, vou apresentar a ferramenta para tracking de bugs na sua aplicação Airbrake. De uma forma simples e direta você tem todos os detalhes dos erros de sua aplicação em um mesmo local, e pode solucionar esses erros antes do seu cliente começar a reclamar!
+
+    __Contatos:__ [Twitter](https://twitter.com/gurgelrenan) - [Github](https://github.com/gurgelrenan) - [Linkedin](https://www.linkedin.com/in/renangurgel)
+
 
 ### Local
 
