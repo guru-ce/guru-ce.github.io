@@ -27,12 +27,12 @@ Contamos com a sua participação. Inscreva-se [aqui](http://www.eventick.com.br
 
     __Contatos:__ [Twitter](https://twitter.com/dehvmartins) - [Github](https://github.com/dehvmartins) - [Linkedin](https://www.linkedin.com/in/dehvmartins)
 
-- ##### Renan Gurgel
-    __Título:__ Airbrake - Descobrindo os erros da sua aplicação antes do seu cliente
+- ##### Jivago Alves
+    __Título:__  Building Web Apps in Elm 
 
-    __Descrição:__ Nesse lightning talk, vou apresentar a ferramenta para tracking de bugs na sua aplicação Airbrake. De uma forma simples e direta você tem todos os detalhes dos erros de sua aplicação em um mesmo local, e pode solucionar esses erros antes do seu cliente começar a reclamar!
+    __Descrição:__ As developers, we have been building rich web-based applications (or trying to) for some time and still can't avoid the complexity behind modeling the state of the world around us. In this talk we'll discuss a functional approach that radically simplify things using reactive web components backed by Elm, a functional reactive language that compiles to HTML, CSS and JavaScript. We choose Elm to bring us simplicity from FP principles and ultimately to bring its powerful type system to JavaScript on the browser
 
-    __Contatos:__ [Twitter](https://twitter.com/gurgelrenan) - [Github](https://github.com/gurgelrenan) - [Linkedin](https://www.linkedin.com/in/renangurgel)
+    __Contatos:__ [Github](https://github.com/jivagoalves) - [Linkedin](https://www.linkedin.com/in/jivagoalves)
 
 
 ### Local
