@@ -9,15 +9,35 @@ O próximo encontro do GURU está chegando pessoal! No fim do mês, mais precisa
 
 Contamos com a sua participação. Inscreva-se [aqui](http://www.eventick.com.br/17o-encontro-do-guru-ce) ou submeta sua palestra ou LT [aqui](http://call4paperz.com/events/17-encontro-guru-ce).
 
-**Atenção**: As inscrições são até o dia 24 de julho às 20h. O CFP, fica até o dia 20 de julho.
+**Atenção**: As inscrições são até o dia 24 de julho às 20h.
 
 ### Palestrantes
 
-- A definir
+- ##### Daniel Romero
+    __Título:__ Hello CoreOS
+
+    __Descrição:__ A proposta desta talk é apresentar o sistema operacional CoreOS e sua estrutura diferente, elaborada para trabalhar em cluster e gerenciar containers. Ao final um demo de como criar e controlar um cluster rapidamente além de distribuir containers.
+
+    __Contatos:__ [Twitter](https://twitter.com/infoslack) - [Github](https://github.com/infoslack) - [Linkedin](https://www.linkedin.com/in/infoslack)
+
+- ##### Débora Martins
+    __Título:__ Depois da jóia, flores
+
+    __Descrição:__ Nessa talk veremos uma introdução "hands-on" ao framework Lotus, suas diferenças e semelhanças com Rails.
+
+    __Contatos:__ [Twitter](https://twitter.com/dehvmartins) - [Github](https://github.com/dehvmartins) - [Linkedin](https://www.linkedin.com/in/dehvmartins)
+
+- ##### Jivago Alves
+    __Título:__  Building Web Apps in Elm 
+
+    __Descrição:__ As developers, we have been building rich web-based applications (or trying to) for some time and still can't avoid the complexity behind modeling the state of the world around us. In this talk we'll discuss a functional approach that radically simplify things using reactive web components backed by Elm, a functional reactive language that compiles to HTML, CSS and JavaScript. We choose Elm to bring us simplicity from FP principles and ultimately to bring its powerful type system to JavaScript on the browser
+
+    __Contatos:__ [Github](https://github.com/jivagoalves) - [Linkedin](https://www.linkedin.com/in/jivagoalves)
+
 
 ### Local
 
-- A definir
+[![RBL Networks]({{ site.baseurl }}/assets/images/logo-rblnetworks.png "RBL Networks")](http://www.rblnetworks.com.br)
 
 ### Patrocinadores
 
