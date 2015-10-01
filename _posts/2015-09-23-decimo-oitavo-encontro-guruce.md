@@ -46,7 +46,19 @@ Contamos com a sua participação, inscreva-se [aqui](http://even.tc/18o-encontr
 
 ### Local
 
- A definir
+![Reserva Coworking]({{ site.baseurl }}/assets/images/maps_reservacoworking.jpg "Reserva Coworking")
+
+__Local:__ __Reserva Coworking__
+
+__Data:__ _17 de Outubro de 2015_
+
+__Horário:__ _14:00 horas_
+
+__Endereço:__ Rua Monsenhor Otávio de Castro, 435 - Fatima, Fortaleza, Brazil
+
+__Telefone:__ (85) 3055-0055
+
+* __[COMO CHEGAR?](https://www.google.com.br/maps/dir/''/reserva+coworking/@-3.7463338,-38.6009043,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x7c7491dff6ec74d:0x7819d565e799a88e!2m2!1d-38.5270867!2d-3.7463369)__
 
 
 ##### Sugestões
