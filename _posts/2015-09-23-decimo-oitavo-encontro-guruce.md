@@ -30,7 +30,7 @@ Contamos com a sua participação, inscreva-se [aqui](http://even.tc/18o-encontr
 
     __Contatos:__ [Twitter](https://twitter.com/gurgelrenan) - [Github](https://github.com/gurgelrenan) - [Linkedin](https://www.linkedin.com/in/gurgelrenan)
 
-- ##### Rafael Sales
+- ##### José Magalhães
     __Título:__  Sua aplicação web é robusta? 
 
     __Descrição:__ Quando escutamos “Eu construí uma aplicação web robusta”, muitas pessoas abstraem o que está por trás da palavra “robusta” e apenas pensa que é algo que vai sobreviver a terremotos – eu ouso dizer que é mais difícil sobreviver a uma aplicação não-robusta já que eu nunca presenciei um terremoto. Só estamos querendo ser vaidosos quando dizemos que criamos algo robusto? Bem, o que eu quero é estar orgulhoso ao dizer: eu construí uma aplicação web que tenha um conjunto mínimo de propriedades que podem ser resumidas a robustez.
@@ -41,7 +41,7 @@ Contamos com a sua participação, inscreva-se [aqui](http://even.tc/18o-encontr
     
     Desafio você a se sentir orgulhoso quando for dizer que construiu algo robusto!
                    
-    __Contatos:__ [Twitter](https://twitter.com/rafaelsales) - [Github](https://github.com/RafaelSales) - [Linkedin](https://br.linkedin.com/in/rafasales/pt)
+    __Contatos:__ [Twitter](https://twitter.com/franzejr) - [Github](https://github.com/franzejr) - [Linkedin](https://br.linkedin.com/in/franzejr/pt)
 
 
 ### Local
