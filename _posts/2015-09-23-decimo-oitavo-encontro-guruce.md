@@ -16,11 +16,11 @@ Contamos com a sua participação, inscreva-se [aqui](http://even.tc/18o-encontr
     __Título:__ Ruby + Docker: do desenvolvimento à produção
 
     __Descrição:__  Docker está mudando dramaticamente a forma que nós “empacotamos” e fazemos deploy em nossas aplicações. Ela simplifica sua estrutura rodando containers leves pelo seu kernel, dando à você o controle de decidir o que rodar sem afetar outras partes do seu servidor.
-    
+
     Trabalhando com o Docker, suas aplicações em Ruby terão uma excelente plataforma que além de fornecer um ambiente isolado, tem um baixo custo.
-                    
+
     Nesta palestra, você vai ter uma breve introdução ao ecossistema do Docker, conhecendo seus processos e ferramentas necessárias para empacotar sua aplicação Ruby em um container.
-  
+
     __Contatos:__ [Twitter](https://twitter.com/infoslack) - [Github](https://github.com/infoslack) - [Linkedin](https://www.linkedin.com/in/infoslack)
 
 - ##### Renan Gurgel
@@ -31,16 +31,16 @@ Contamos com a sua participação, inscreva-se [aqui](http://even.tc/18o-encontr
     __Contatos:__ [Twitter](https://twitter.com/gurgelrenan) - [Github](https://github.com/gurgelrenan) - [Linkedin](https://www.linkedin.com/in/gurgelrenan)
 
 - ##### José Magalhães
-    __Título:__  Sua aplicação web é robusta? 
+    __Título:__  Sua aplicação web é robusta?
 
     __Descrição:__ Quando escutamos “Eu construí uma aplicação web robusta”, muitas pessoas abstraem o que está por trás da palavra “robusta” e apenas pensa que é algo que vai sobreviver a terremotos – eu ouso dizer que é mais difícil sobreviver a uma aplicação não-robusta já que eu nunca presenciei um terremoto. Só estamos querendo ser vaidosos quando dizemos que criamos algo robusto? Bem, o que eu quero é estar orgulhoso ao dizer: eu construí uma aplicação web que tenha um conjunto mínimo de propriedades que podem ser resumidas a robustez.
-    
+
     É comum esperar que serviços terceiros sejam robustos e tenham propriedades de Sistemas Distribuídos, mas nós geralmente esquecemos o mesmo quando vamos projetar nossas aplicações web, então como podemos garantir que nossos usuários não ficarão desapontados?
-    
+
     Vamos estabelecer quais propriedades são fundamentais para dizer que a arquitetura da nossa aplicação web é robusta. Iremos também revisar idempotência, resiliência e alguns tópicos de Sistemas Distribuídos contextualizados em arquitetura de aplicações web para nos ajudar a identificar os pontos cegos que precisam receber mais atenção.
-    
+
     Desafio você a se sentir orgulhoso quando for dizer que construiu algo robusto!
-                   
+
     __Contatos:__ [Twitter](https://twitter.com/franzejr) - [Github](https://github.com/franzejr) - [Linkedin](https://br.linkedin.com/in/franzejr/pt)
 
 
