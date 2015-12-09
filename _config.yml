@@ -10,6 +10,8 @@ paginate: 15
 url:            'blog url'
 author:         'GURU - CE'
 permalink: /blog/:year/:month/:day/:title
+archive: false
+disqus: false
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
