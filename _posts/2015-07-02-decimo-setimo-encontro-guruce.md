@@ -28,7 +28,7 @@ Contamos com a sua participação. Inscreva-se [aqui](http://www.eventick.com.br
     __Contatos:__ [Twitter](https://twitter.com/dehvmartins) - [Github](https://github.com/dehvmartins) - [Linkedin](https://www.linkedin.com/in/dehvmartins)
 
 - ##### Jivago Alves
-    __Título:__  Building Web Apps in Elm 
+    __Título:__  Building Web Apps in Elm
 
     __Descrição:__ As developers, we have been building rich web-based applications (or trying to) for some time and still can't avoid the complexity behind modeling the state of the world around us. In this talk we'll discuss a functional approach that radically simplify things using reactive web components backed by Elm, a functional reactive language that compiles to HTML, CSS and JavaScript. We choose Elm to bring us simplicity from FP principles and ultimately to bring its powerful type system to JavaScript on the browser
 
@@ -46,4 +46,4 @@ Contamos com a sua participação. Inscreva-se [aqui](http://www.eventick.com.br
 
 ##### Sugestões
 
-Caso queira __sugerir__ um __local__ para os __próximos eventos__ e/ou __patrocinar__, favor enviar __[email](mailto:%66%69%6C%69%70%65%62%61%72%63%6F%73%40%67%6D%61%69%6C%2E%63%6F%6D%2C%68%65%72%6D%69%6E%69%6F%63%65%73%61%72%40%67%6D%61%69%6C%2E%63%6F%6D)__
+Caso queira __sugerir__ um __local__ para os __próximos eventos__ e/ou __patrocinar__, favor enviar __[email](mailto:guru42@gmai.com?subject=Contato)__

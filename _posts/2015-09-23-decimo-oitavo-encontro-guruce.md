@@ -63,4 +63,4 @@ __Telefone:__ (85) 3055-0055
 
 ##### Sugestões
 
-Caso queira __sugerir__ um __local__ para os __próximos eventos__ e/ou __patrocinar__, favor enviar __[email](mailto:%66%69%6C%69%70%65%62%61%72%63%6F%73%40%67%6D%61%69%6C%2E%63%6F%6D%2C%68%65%72%6D%69%6E%69%6F%63%65%73%61%72%40%67%6D%61%69%6C%2E%63%6F%6D)__
+Caso queira __sugerir__ um __local__ para os __próximos eventos__ e/ou __patrocinar__, favor enviar __[email](mailto:guru42@gmai.com?subject=Contato)__
