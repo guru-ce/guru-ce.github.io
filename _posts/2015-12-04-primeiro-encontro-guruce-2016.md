@@ -5,7 +5,7 @@ date:   2015-12-04 12:00:00
 categories: evento encontro guruce
 ---
 
-2015 ainda nem acabou mas já estamos planejando o primeiro encontro do ano que vem, que ocorrerá no dia 20 de janeiro de 2016. Você já pode fazer sua inscrição [aqui](http://even.tc/19a-guru-ce).
+2015 ainda nem acabou mas já estamos planejando o primeiro encontro do ano que vem, que ocorrerá no dia 20 de janeiro de 2016, das 19h às 21h. Você já pode fazer sua inscrição [aqui](http://even.tc/19a-guru-ce).
 
 ### Palestrantes
 
