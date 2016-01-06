@@ -21,6 +21,8 @@ categories: evento encontro guruce
 
     __Descrição:__ Nesta talk, irei demonstrar como construir sua infraestrutura agregando vários serviços de PaaS e SaaS com um único arquivo de manifesto e uma unica ferramenta: terraform.
 
+    __Contatos:__ [Twitter](https://twitter.com/lucazz) - [Github](https://github.com/lucazz)
+
 - ##### Fábio Quixadá
     __Título:__ Maximização do Conceito DRY Utilizando Concerns, Partials e Helpers
 
