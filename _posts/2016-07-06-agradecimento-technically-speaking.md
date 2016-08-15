@@ -13,7 +13,7 @@ Com parcerias assim nós podemos ir mais longe e realizar mais encontros e de qu
 
 Fica aqui o nosso muito obrigado.
 
-Se você tem interesse em patrocinar o Guru-CE, entre em contato conosco através do [nosso email](mailto:guru42@gmail.com?subject=Patrocinio).
+Se você tem interesse em patrocinar o Guru-CE, entre em contato conosco através do [nosso email](mailto:guru42@gmail.com?subject=Patrocínio).
 
 **[en-US]**
 
