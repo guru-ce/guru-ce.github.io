@@ -36,4 +36,4 @@ __Telefone:__ (85) 3045-0300
 
 ##### Sugestões
 
-Caso queira __sugerir__ um __local__ para os __próximos eventos__ e/ou __patrocinar__, favor enviar __[email](mailto:guru42@gmai.com?subject=Contato)__
+Caso queira __sugerir__ um __local__ para os __próximos eventos__ e/ou __patrocinar__, favor enviar __[email](mailto:	guruce42@gmail.com?subject=Contato)__
