@@ -1,6 +1,6 @@
 guru-ce.github.io
 =================
 
-# GURUCE - Group Ruby Users - Ceará/Brazil
+# GURUCE - Grupo de Usuários Ruby - Ceará/Brasil
 
 [website guru-ce.github.io](http://guru-ce.github.io)
