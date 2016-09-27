@@ -9,7 +9,7 @@ Finalmente, o primeiro encontro de 2016 chegou! É isso aí, infelizmente estive
 
 O encontro ocorrerá no dia **4 de outubro**, na _Livraria Leitura_ do shopping Rio Mar, às 19:00.
 
-Ainda dá tempo de mandar a sua proposta de palestra pelo [call4paperz](http://call4paperz.com/events/19-encontro-do-guru-ce)
+~~Ainda dá tempo de mandar a sua proposta de palestra pelo [call4paperz](#)~~
 
 Contamos com a sua participação, inscreva-se [aqui](https://www.eventick.com.br/19o-encontro-do-guru-ce).
 
