@@ -14,9 +14,28 @@ Ainda dá tempo de mandar a sua proposta de palestra pelo [call4paperz](http://c
 Contamos com a sua participação, inscreva-se [aqui](https://www.eventick.com.br/19o-encontro-do-guru-ce).
 
 
-### Palestrantes
+### Palestras
 
-- Em definição.
+
+#### Unikernels e o futuro da infraestrutura imutável
+
+Sistemas operacionais tradicionais (Linux, FreeBSD, Windows) serão extintos em servidores. Eles serão substituídos por hypervisors do tipo bare metal, otimizados de forma específica para o hardware e o deploy de nossas aplicações será feito através de um único arquivo binário. Veremos o que são Unikernels, os motivos de serem rápidos, seguros e que oportunidades ele reserva para o futuro.
+
+- [Daniel Romero (@infoslack)](https://twitter.com/infoslack)
+
+
+#### REST is dead
+
+Sinto muito se você acabou de comprar um livro sobre REST ou acabou de assistir uma palestra sobre RESTful APIs e achou o máximo :) Nesta palestra irei falar de alguns problemas comuns de APIs REST e como GraphQL e gRPC podem ser utilizados para solucionar o mesmo tipo de problema que REST tenta resolver e por que este é o momento de explorá-las.
+
+- [Rafael Sales](https://twitter.com/rafaelsales)
+
+
+#### Teoria dos Grafos por trás do ImmutableJS
+
+ImmutableJS é uma biblioteca do Facebook que fornece uma variedade de dados imutáveis, tais como Pilhas, Listas, Maps e outros. Essas estruturas são altamente eficientes em modernas VMs Javascript usando compartilhamento estrutural via Maps Tries e Vector Tries. Ao final dessa talk, você irá entender melhor como realmente as coisas funcionam nos bastidores!
+
+- [Franzé Jr.](https://twitter.com/franzejr)
 
 
 ### Local
