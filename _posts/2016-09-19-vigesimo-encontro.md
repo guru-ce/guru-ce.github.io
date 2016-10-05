@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "19° Encontro do GURU-CE"
+title:  "20° Encontro do GURU-CE"
 date:   2016-09-19 12:00:00
 categories: evento encontro guruce
 ---
 
-Finalmente, o primeiro encontro de 2016 chegou! É isso aí, infelizmente estivemos ausentes, no que resultou em nenhum encontro até agora, mas isso está acabando, o encontro 19 está aí!
+Finalmente, o primeiro encontro de 2016 chegou! É isso aí, infelizmente estivemos ausentes, no que resultou em nenhum encontro até agora, mas isso está acabando, o encontro 20 está aí!
 
 O encontro ocorrerá no dia **4 de outubro**, na _Livraria Leitura_ do shopping Rio Mar, às 19:00.
 
 ~~Ainda dá tempo de mandar a sua proposta de palestra pelo [call4paperz](#)~~
 
-Contamos com a sua participação, inscreva-se [aqui](https://www.eventick.com.br/19o-encontro-do-guru-ce).
+Contamos com a sua participação, inscreva-se [aqui](https://www.eventick.com.br/20o-encontro-do-guru-ce).
 
 
 ### Palestras
