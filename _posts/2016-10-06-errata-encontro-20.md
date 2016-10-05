@@ -14,5 +14,5 @@ Na prática, nada muda, só gostaria de deixar e explicar a mudança repentina d
 
 Agradecemos a compreensão e nos desculpem a confusão.
 
-Se você tem interesse em patrocinar o Guru-CE, entre em contato conosco através do [nosso email](mailto:guru42@gmail.com?subject=Patrocínio).
+Se você tem interesse em patrocinar o Guru-CE, entre em contato conosco através do [nosso email](mailto:guruce42@gmail.com?subject=Patrocínio).
 
