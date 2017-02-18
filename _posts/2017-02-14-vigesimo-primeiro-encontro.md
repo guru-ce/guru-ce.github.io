@@ -50,6 +50,9 @@ __Endereço:__ Rua Des. Lauro Nogueira, 1500 - Papicu, Fortaleza, Brazil
 __Telefone:__ (85) 3045-0300
 
 
+### Patrocínio
+![agenda-kids]({{ site.baseurl }}/assets/images/agenda-kids.png "Agenda Kids")
+
 ##### Sugestões
 
 Caso queira __sugerir__ um __local__ para os __próximos eventos__ e/ou __patrocinar__, favor enviar __[email](mailto:	guruce42@gmail.com?subject=Contato)__
