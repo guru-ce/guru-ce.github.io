@@ -9,7 +9,7 @@ O 🎃Halloween🎃 está chegando e finalmente teremos mais um GURU, Guru no di
 
 O encontro ocorrerá no dia **31 de Outubro**, na _Agenda Kids_, às 19:00.
 
-Contamos com a sua participação, inscreva-se [aqui](https://www.sympla.com.br/22-encontro-do-guru-ce__198430).
+Contamos com a sua participação, inscreva-se [aqui](https://www.sympla.com.br/22-encontro-do-guru-ce__198434).
 
 ### Palestras
 
