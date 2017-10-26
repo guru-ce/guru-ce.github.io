@@ -23,7 +23,7 @@ Sendo já bastante conhecida até mesmo na academia, o gerenciamento ágil de pr
 
 #### Simple blockchain with ruby
 
-Blockchain é moda. Os bancos estão adotando, as fintechs adotaram e está se usando desde sua aplicação básica, financeira, até controe de acesso e gerenciamento hospitalar. Nesta talk eu pretendo descrever a estrutura e funcionamento de um blockchain e mostrar implementacao em ruby de um driver para um blockchain privado.
+Blockchain é moda. Os bancos estão adotando, as fintechs adotaram e está se usando desde sua aplicação básica, financeira, até controle de acesso e gerenciamento hospitalar. Nesta talk eu pretendo descrever a estrutura e funcionamento de um blockchain e mostrar implementacao em ruby de um driver para um blockchain privado.
 
 - [Paolo Oliveira](https://twitter.com/paoloo)
 
