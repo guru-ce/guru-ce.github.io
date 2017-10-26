@@ -13,8 +13,28 @@ Contamos com a sua participação, inscreva-se [aqui](https://www.sympla.com.br/
 
 ### Palestras
 
-Está afim de compartilhar um pouco de conhecimento? Manda uma sugestão de palestra pra gente.
-Acessa https://github.com/guru-ce/cfp e faça seu PR! Submissões serão aceitas até dia 24/10.
+#### 5 Passos para destruir o Agile
+
+Uma definição básica de Gerenciamento de Projetos Ágil seria um processo interativo que foca em criar valor ao cliente por meio da alta interação entre equipe e cliente e se adaptando a realidade de negócio apresentada, ao invés de seguir um plano predeterminado.  
+
+Sendo já bastante conhecida até mesmo na academia, o gerenciamento ágil de projetos já é vendido a todo momento para nós que trabalhamos com desenvolvimento de software. Porém poucos de nós temos a experiência passar pela conversão dos processos de Waterfall para Ágil.
+
+- [Guilherme Carneiro](https://github.com/guicarneiro)
+
+#### Simple blockchain with ruby
+
+Blockchain é moda. Os bancos estão adotando, as fintechs adotaram e está se usando desde sua aplicação básica, financeira, até controe de acesso e gerenciamento hospitalar. Nesta talk eu pretendo descrever a estrutura e funcionamento de um blockchain e mostrar implementacao em ruby de um driver para um blockchain privado.
+
+- [Paolo Oliveira](https://twitter.com/paoloo)
+
+#### Refactoring to the rescue
+
+A medida que nossos sistemas crescem, constantemente acabamos vendo softwares mais lentos. Não fazemos isso por mal, mas aqueles pequenos débitos técnicos que deixamos alguns meses atrás, logo logo podem voltar e se transformar em um grande problema. A velocidade de desenvolvimento acaba caindo assim como a manutenabilidade do sistema.
+
+Contudo, algumas técnicas e ferramentas podem mitigar ou diminuir substancialmente esses problemas e é exatamente disso que vamos falar nesta palestra: A refatoração vindo ao resgate do time de desenvolvimento.
+
+- [Renan Gurgel](https://twitter.com/gurgelrenan)
+
 
 __Local:__ __Agenda Kids__
 
