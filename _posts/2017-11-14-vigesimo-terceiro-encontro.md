@@ -7,9 +7,9 @@ categories: evento encontro guruce
 
 Novembro está chegando ao fim e teremos mais um GURU!
 
-O encontro ocorrerá na Quarta-feira,dia **30 de Novembro**, na _Agenda Kids_, às 19:00.
+O encontro ocorrerá na Quarta-feira,dia **30 de Novembro**, na _Agenda Edu_, às 19:00.
 
-Contamos com a sua participação, inscreva-se [aqui](#).
+Contamos com a sua participação, inscreva-se [aqui](https://www.sympla.com.br/23o-guru-ce__216470).
 
 ### Palestras
 
@@ -17,7 +17,7 @@ Contamos com a sua participação, inscreva-se [aqui](#).
 Resumo rapido da palestra
 - [Fulano de tal](#)
 
-__Local:__ __Agenda Kids__
+__Local:__ __Agenda Edu__
 
 __Data:__ _30 de Novembro de 2017_
 
