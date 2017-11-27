@@ -14,8 +14,8 @@ Contamos com a sua participação, inscreva-se [aqui](https://www.sympla.com.br/
 ### Palestras
 
 #### Palestra I
-Resumo rapido da palestra
-- [Fulano de tal](#)
+Call for papers ainda está aberto!
+- [Envie sua palestra aqui](https://github.com/guru-ce/cfp/issues/14)
 
 __Local:__ __Agenda Edu__
 
