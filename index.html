@@ -15,7 +15,7 @@ about: 'about.html'
             {% endif %}
             <h1 class="blog-title">{{ site.name }}</h1>
             <h2 class="blog-description">{{ site.description }}</h2>
-            <ul>
+            <ul class="site-nav">
                 {% if page.about %}
                     <li><a href='{{ site.baseurl }}{{ page.about }}'>Sobre</a></li>
                 {% endif %}
