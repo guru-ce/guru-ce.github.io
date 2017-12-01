@@ -14,10 +14,17 @@ about: 'about.html'
                 </a>
             {% endif %}
             <h1 class="blog-title">{{ site.name }}</h1>
-            <h2 class="blog-description">
-                {{ site.description }}.
-                {% if page.about %} <a href='{{ site.baseurl }}{{ page.about }}'> Sobre </a> {% endif %}
-            </h2>
+            <h2 class="blog-description">{{ site.description }}</h2>
+            <ul class="site-nav">
+                {% if page.about %}
+                    <li><a href='{{ site.baseurl }}{{ page.about }}'>Sobre</a></li>
+                {% endif %}
+                <li>
+                    <a href='https://guru-ce.slack.com/'>Slack</a>
+                    -
+                    <a href='https://guru-ce-slack.herokuapp.com/'>Solicitar convite</a>
+                </li>
+            </ul>
         </div>
     </div>
 </header>
