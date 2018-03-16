@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "1o Encontro de 2018 - A Volta dos mortos vivos"
+title:  "24° Encontro de 2018 - A Volta dos mortos vivos"
 date:   2018-03-16 10:40:00
 categories: evento encontro guruce
 ---
