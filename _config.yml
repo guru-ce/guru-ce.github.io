@@ -3,6 +3,10 @@ name: GURU-CE
 description: Grupo de Usuários de Ruby do Ceará
 meta_description: "Encontros, Ruby, Rails, Git, Gems, Desenvolvimento, Javascript, Design Patterns, Arquitetura"
 
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+
 logo: false
 paginate: 15
 
