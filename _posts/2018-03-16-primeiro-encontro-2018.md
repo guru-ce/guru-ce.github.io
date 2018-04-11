@@ -15,8 +15,9 @@ Contamos com a sua participação!
 ### Palestras
 ##### Construindo interfaces com RSCSS
 
-Nesta talk mostro como utilizar um sistema de CSS para desenvolvimento de interfaces baseadas em componentes reutilizáveis e manuteníveis, usando o Reasonable System for CSS Stylesheet Structure.
+Nesta talk mostraremos como utilizar um sistema de CSS para desenvolvimento de interfaces baseadas em componentes reutilizáveis e manuteníveis, usando o [RSCSS](http://rscss.io).
 
+- [Aline Bispo](https://www.linkedin.com/in/alinembl)
 - [Joel Wallis Jucá](https://www.linkedin.com/in/joelwallis)
 
 ##### Do Front ao rails, entrando nos trilhos
