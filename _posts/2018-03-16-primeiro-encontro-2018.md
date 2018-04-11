@@ -21,13 +21,13 @@ Nesta talk mostro como utilizar um sistema de CSS para desenvolvimento de interf
 
 ##### Do Front ao rails, entrando nos trilhos
 
-Meus primeiros passos, as vantagens e obstaculos de um iniciante em rails
+Meus primeiros passos, as vantagens e obstáculos de um iniciante em rails.
 
 - [Renoir Sousa](https://www.linkedin.com/in/renoirsousa)
 
 #### Subdomínios na prática
 
-Com a ascensão dos marketplaces um padrão de projeto mutio últil é a utilização de subdomínios, neste talk vamos abordar a utlização subdomínios em um projeto web e utilizar schemas no postgreSQL para cada sudomínio. Uma abordagem pratica com dicas de sobrevivência na vida real.
+Com a ascensão dos marketplaces um padrão de projeto muito útil é a utilização de subdomínios, neste talk vamos abordar a utilização de subdomínios em um projeto web e utilizar schemas no postgreSQL para cada sudomínio. Uma abordagem prática com dicas de sobrevivência na vida real.
 
 - [Rafael Cruz Rubert](mailto:rafael@rubert.com.br)
 
