@@ -13,10 +13,26 @@ O encontro ocorrerá na Sexta-feira,dia **13 de Abril**, na _Agenda Edu_, às 19
 Contamos com a sua participação!
 
 ### Palestras
+##### Construindo interfaces com RSCSS
 
-#### Palestra I
-Call for papers ainda está aberto!
-- [Envie sua palestra aqui](http://call4paperz.com/events/primeiro-meetup-2018-guru-ce)
+Nesta talk mostro como utilizar um sistema de CSS para desenvolvimento de interfaces baseadas em componentes reutilizáveis e manuteníveis, usando o Reasonable System for CSS Stylesheet Structure.
+
+- [Joel Wallis Jucá](https://www.linkedin.com/in/joelwallis)
+
+##### Do Front ao rails, entrando nos trilhos
+
+Meus primeiros passos, as vantagens e obstaculos de um iniciante em rails
+
+- [Renoir Sousa](https://www.linkedin.com/in/renoirsousa)
+
+#### Subdomínios na prática
+
+Com a ascensão dos marketplaces um padrão de projeto mutio últil é a utilização de subdomínios, neste talk vamos abordar a utlização subdomínios em um projeto web e utilizar schemas no postgreSQL para cada sudomínio. Uma abordagem pratica com dicas de sobrevivência na vida real.
+
+- [Rafael Cruz Rubert](mailto:rafael@rubert.com.br)
+
+
+#### Local e Horário
 
 __Local:__ __Agenda Edu__
 
