@@ -65,3 +65,7 @@ Parágrafo de descrição da palestra vem aqui.
 
 **Endereço:**  
 [R. Joaquim Nabuco, 2829 - Dionísio Torres, Fortaleza - CE, 60125-121](https://goo.gl/maps/LoinqcrgmhUSPXQF9)
+
+## Inscrições
+
+[As inscrições pro 28º Encontro GURU-CE podem ser feitas pela plataforma Eventbrite. Clique para se inscrever.](https://www.eventbrite.com/e/28-encontro-guru-ce-tickets-60853572674)
