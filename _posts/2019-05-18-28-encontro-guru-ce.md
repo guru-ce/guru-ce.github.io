@@ -61,7 +61,7 @@ Parágrafo de descrição da palestra vem aqui.
 [Agenda Edu](https://agendaedu.com/)
 
 **Data e Horário:**  
-13 de Abril de 2018, às 7:00 PM
+30 de Abril de 2018, às 7:00 PM
 
 **Endereço:**  
 [R. Joaquim Nabuco, 2829 - Dionísio Torres, Fortaleza - CE, 60125-121](https://goo.gl/maps/LoinqcrgmhUSPXQF9)
