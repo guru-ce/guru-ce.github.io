@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "28° Encontro GURU-CE"
-date: 2018-04-18 9:00:00
+date: 2019-04-18 9:00:00
 categories: evento encontro guruce
 ---
 
@@ -30,7 +30,6 @@ O encontro é também uma ótima oportunidade para palestrar sobre aquela ferram
 ## Palestras
 
 As palestras selecionadas para o encontro encontram-se a seguir:
-
 
 ### Integrando o React em Projetos Rails: Começando Pequeno
 
