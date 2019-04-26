@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "28° Encontro GURU-CE"
-date: 2018-03-18 9:00:00
+date: 2018-04-18 9:00:00
 categories: evento encontro guruce
 ---
 
