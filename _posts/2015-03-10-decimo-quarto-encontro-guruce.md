@@ -59,4 +59,4 @@ __Website:__ [elephantcoworking](http://www.elephantcoworking.com.br/)
 
 ##### Sugestões
 
-Caso queira __sugerir__ um __local__ para os __próximos eventos__ e/ou __patrocinar__, favor enviar __[email](mailto:guru42@gmai.com?subject=Contato)__
+Caso queira __sugerir__ um __local__ para os __próximos eventos__ e/ou __patrocinar__, favor enviar __[email](mailto:eventos@guruce.33mail.com?subject=Contato)__
