@@ -48,4 +48,4 @@ __Telefone:__ (85) 996554511
 
 ##### Sugestões
 
-Caso queira __sugerir__ um __local__ para os __próximos eventos__ e/ou __patrocinar__, favor enviar __[email](mailto: guruce42@gmail.com?subject=Contato)__
+Caso queira __sugerir__ um __local__ para os __próximos eventos__ e/ou __patrocinar__, favor enviar __[email](mailto: eventos@guruce.33mail.com?subject=Contato)__

@@ -47,6 +47,6 @@ __Telefone:__ (85) 996554511
 
 ##### Sugestões
 
-Caso queira __sugerir__ um __local__ para os __próximos eventos__ e/ou __patrocinar__, favor enviar __[email](mailto: guru-ce-meetup@posteo.com.br?subject=Contato)__
+Caso queira __sugerir__ um __local__ para os __próximos eventos__ e/ou __patrocinar__, favor enviar __[email](mailto: eventos@guruce.33mail.com?subject=Contato)__
 
 Ou junte-se ao nosso [Slack](https://guru-ce-slack.herokuapp.com/)!

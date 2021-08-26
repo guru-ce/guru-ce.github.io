@@ -13,7 +13,7 @@ Com parcerias assim nós podemos ir mais longe e realizar mais encontros e de qu
 
 Fica aqui o nosso muito obrigado.
 
-Se você tem interesse em patrocinar o Guru-CE, entre em contato conosco através do [nosso email](mailto:guru42@gmail.com?subject=Patrocínio).
+Se você tem interesse em patrocinar o Guru-CE, entre em contato conosco através do [nosso email](mailto:eventos@guruce.33mail.com?subject=Patrocínio).
 
 **[en-US]**
 
@@ -23,4 +23,4 @@ With partnership like this we can go further, organize more and better meetups. 
 
 Thank you very much.
 
-If you are interested in helping sponsoring Guru-CE, please reach us over [our email](mailto:guru42@gmail.com?subject=Sponsorship).
+If you are interested in helping sponsoring Guru-CE, please reach us over [our email](mailto:eventos@guruce.33mail.com?subject=Sponsorship).
