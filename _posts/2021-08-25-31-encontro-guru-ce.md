@@ -9,7 +9,7 @@ Nosso 31° encontro finalmente tem uma data! Será no sábado, **25/09/2021 às 
 
 ## Palestras
 
-Estamos com o CFP aberto para quem tiver interesse em palestrar. Não perde tempo e **envia sua proposta até o dia 15/09/2021** pelo link: https://www.papercall.io/guruce
+Estamos com o CFP aberto para quem tiver interesse em palestrar. Não perde tempo e **envia sua proposta até o dia 15/09/2021** pelo [link](https://www.papercall.io/guruce)
 
 
 ## Local e Horário
