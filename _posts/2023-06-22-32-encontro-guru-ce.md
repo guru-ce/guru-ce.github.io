@@ -9,7 +9,7 @@ O Guru-CE está de volta! Nosso primeiro encontro de 2023 será no sábado, dia 
 
 ## Chamada para Palestras
 
-Atualmente estamos recebendo propostas para palestras! Não perca tempo e envie sua proposta até o dia **2 de Julho**! O link para inscrição é o seguinte: https://forms.gle/kPv9TGw91EQrBN7QA
+Atualmente estamos recebendo propostas para palestras! Não perca tempo e envie sua proposta até o dia **2 de Julho**! O link para inscrição é o seguinte: [https://forms.gle/kPv9TGw91EQrBN7QA](https://forms.gle/kPv9TGw91EQrBN7QA)
 
 
 ## Local e Horário
@@ -25,4 +25,4 @@ Av. Washington Soares, 3663 - Torre 2 - 4º andar - Edson Queiroz, Fortaleza - C
 
 ## Inscrições
 
-As inscrições pro 32º Encontro GURU-CE poderão ser feitas pela plataforma Eventbrite. Link em breve!
+As inscrições pro 32º Encontro GURU-CE poderão ser feitas pela plataforma Eventbrite. Link: [https://bit.ly/guruce32](https://bit.ly/guruce32)
